@@ -24,6 +24,3 @@ Android Studio
 
 **Screenshots**
 ![bustrack1](https://user-images.githubusercontent.com/21143936/34864286-95773e76-f799-11e7-8d66-84f384773080.png)
-
-__Snapshot of the Firebase Database(For one college, Similar for another college that signs up!)__
-![image](https://user-images.githubusercontent.com/21143936/34864438-446d6dba-f79a-11e7-84a6-ffd847fae7f0.png)
