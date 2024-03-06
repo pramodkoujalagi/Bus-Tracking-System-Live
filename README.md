@@ -1,4 +1,4 @@
-# **BusTrack**
+# **Bus Tracking System**
 > Uber like Bus Tracking app.(ANDROID APP)
 
 Many students face problems related to college bus like, College bus tracking, requesting driver to wait because many times we have to run in order to catch the bus without any gurantee that we'd be able to catch the bus, so here with this app we can ask the driver to wait by just clicking a view, and everything is handle intelligently.
